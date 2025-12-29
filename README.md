@@ -66,7 +66,7 @@ sudo pacman -S asusctl supergfxctl
 1. **Clone the repository:**
     
     ```
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git) ~/dotfiles
+    git clone [https://github.com/harimsd07/.config-13-arch.git](https://github.com/harimsd07/.config-13-arch.git) ~/dotfiles
     ```
     
 2. **Install Configurations:** _Warning: This will overwrite your existing config files!_ Copy and paste the following block to set up everything at once:
